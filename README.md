@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**JamesCahyadi/JamesCahyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hello, I'm James Cahyadi :smile:</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :books: University of Waterloo - Computing and Financial Management
+- :computer: Actively seeking SWE internships and volunteer opportunities
+- :fire: Interests: Basketball, Movies, TV Shows
+- 💬 Feel free to ask me about anything
+
+
+<h3>Github Activity :heavy_check_mark:</h3> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=JamesCahyadi&show_icons=true&theme=dark" alt="James Cahyadi Github Activity" /> 
+</p>
+
+<h3>Connect with Me 🤝🏻</h3> 
+
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/j-cahyadi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://dataonatangent.medium.com/"><img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>&nbsp;
+<a href="mailto:jcahyadi239@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+
+
+<br/> 
+  
+<p align="right">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/JamesCahyadi"/>
+</p>
