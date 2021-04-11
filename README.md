@@ -4,7 +4,6 @@
 
 - :books: University of Waterloo - Computing and Financial Management
 - :computer: Actively seeking SWE internships and volunteer opportunities
-- :fire: Interests: Basketball, Movies, TV Shows
 - 💬 Feel free to ask me about anything
 
 
