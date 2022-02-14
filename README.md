@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I'm James Cahyadi :smile:</h1>
 
-- :books: University of Waterloo - Computing and Financial Management
+- :books: University of Waterloo - Computer Science
 - :computer: Actively seeking SWE internships and volunteer opportunities
 - 💬 Feel free to ask me about anything
 
