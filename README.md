@@ -3,14 +3,7 @@
 <h1 align="center">Hello, I'm James Cahyadi :smile:</h1>
 
 - :books: University of Waterloo - Computer Science
-- :computer: Actively seeking SWE internships and volunteer opportunities
-- 💬 Feel free to ask me about anything
-
-
-<h3>Github Activity :heavy_check_mark:</h3> 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=JamesCahyadi&show_icons=true&theme=dark" alt="James Cahyadi Github Activity" /> 
-</p>
+- :computer: Actively seeking SWE internships
 
 <h3>Connect with Me 🤝🏻</h3> 
 
